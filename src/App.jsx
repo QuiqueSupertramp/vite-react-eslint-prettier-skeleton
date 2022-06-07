@@ -5,6 +5,7 @@ function App() {
 			<ul>
 				<li>ESLINT</li>
 				<li>PRETTIER</li>
+				<li>MODERN NORMALIZE</li>
 				<li>IMPORTS ABSOLUTOS CON @</li>
 			</ul>
 		</div>
